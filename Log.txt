@@ -1,26 +1,27 @@
 June  28:
 
 	- Adding separate columns for sources and page numbers 
-	- Confirmed and added missing dates of dedication found in Platner and Ashby
+	- Confirmed and added missing dates of dedication found in 	Platner and Ashby
 	- Added (3) temples from Platner and Ashby
-	- Added coordinates for Mars Ultor from wikipedia (from Forum of Augustus page)
-	- Added coordinates for Venus Victrix from wikipedia (from theatre of pompey page)
-	- Added coordinates for Bona Dea (located where church of S. Balbina is currently)
+	- Added coordinates for Mars Ultor from wikipedia (from 	Forum of Augustus page)
+	- Added coordinates for Venus Victrix from wikipedia (from 	theatre of pompey page)
+	- Added coordinates for Bona Dea (located where church of S. 	Balbina is currently)
 
 June 29:
 
-	- Added coordinated for temple of Vesta in Tivoli (from Wikipedia)
+	- Added coordinated for temple of Vesta in Tivoli (from 
+	Wikipedia)
 	- Removed redundant entries/cleaned up names
 	- Added coordinates for temple of Claudius (Wikipedia)
 	- Added dedication date for Cybele
 		? Antoninus and Faustina - Platner/Ashby
-	- Added coordinates for Matidia (based on the info from Platner and Ashby that it was likely located where Santa Maria in Aquiro is now, coord from wikipedia)
-	- Added coordinates for the temple of Isis/Serapis (from wikipedia)
+	- Added coordinates for Matidia (based on the info from 	Platner and Ashby that it was likely located where Santa 	Maria in Aquiro is now, coord from wikipedia)
+	- Added coordinates for the temple of Isis/Serapis (from 	wikipedia)
 	- Double checked locations of temples, fixed misspellings
 
 June 30:
 
-	- Added (10?) temples from Zilokowski text (cross checking with Platner and Ashby)
+	- Added (10?) temples from Zilokowski text (cross checking 	with Platner and Ashby)
 	- Removing redundant entries
 	- Double checking data
 	- Added genders
@@ -35,3 +36,10 @@ July 7:
 	- Added column for Stamper 
 	- Added page numbers from Stamper
 	- Removed more redundancies 
+
+July 12:
+	- Correcting pleiades ID numbers
+	- Orignailly temple of Madidia/Mausoleo di Romolo had the 	same ID number which was actually for the Sept. of Caecilia 	Metella?
+	 	- Revison in old table from 27 June has correct ID 	
+	numbers
+	- Starting to paste in correct IDs from old table
