@@ -46,3 +46,6 @@ July 13:
 	- Pasting ID numbers from old table to current revision (mostly vici and wikidata IDs)
 		- Numbers that have been copied in old revision are red
 		- Correct IDs in new table are purple 
+		
+July 14:
+	- Adding correct DARE ID numbers (also in purple)
