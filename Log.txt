@@ -43,3 +43,8 @@ July 12:
 	 	- Revison in old table from 27 June has correct ID 	
 	numbers
 	- Starting to paste in correct IDs from old table
+
+July 13:
+	- Pasting ID numbers from old table to current revision 
+		- Numbers that have been copied in old revision are 			red
+		- Correct IDs in new table are purple 
