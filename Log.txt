@@ -53,4 +53,6 @@ July 14:
 	
 July 15:
 	- Added coordinates for temples in Largo Argentina using google maps, added pleiades IDs. 
+		- Deleted duplicate entries 
 	- Italicized items marked for deletion 
+	
