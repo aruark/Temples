@@ -49,3 +49,8 @@ July 13:
 		
 July 14:
 	- Adding correct DARE ID numbers (also in purple)
+	- Corrected all ID numbers
+	
+July 15:
+	- Added coordinates for temples in Largo Argentina using google maps, added pleiades IDs. 
+	- Italicized items marked for deletion 
