@@ -55,4 +55,10 @@ July 15:
 	- Added coordinates for temples in Largo Argentina using google maps, added pleiades IDs. 
 		- Deleted duplicate entries 
 	- Italicized items marked for deletion 
+	- Corrected coordinates for Jupiter Optimus Maximus (it's not out in the middle of a field now)
+	
+July 17:
+	- Random hex column changes every time there's an edit??
+	- Added coordinated for temple of Hadrian (from wikipedia, 	double checked in google maps)
+	- Deleted row for "Geohack location for temple of jupiter optimus maximus"
 	
