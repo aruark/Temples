@@ -65,6 +65,6 @@ July 17:
 July 18:
 
 	-Added coordinates for temple of Trajan (from wikipedia - coordinates actually map right next to the market of Trajan) 
-	- Made list of temples to add from Richardson text (2 dozen or so)
+	- Made list of temples to add from Richardson text (20ish or so)
 
 	
