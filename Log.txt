@@ -66,5 +66,12 @@ July 18:
 
 	-Added coordinates for temple of Trajan (from wikipedia - coordinates actually map right next to the market of Trajan) 
 	- Made list of temples to add from Richardson text (20ish or so)
+	
+July 19:
+
+	- Adding temples from Richardson 
+	- Coordinates for Diana from wikipedia (plots just west of the Church Platner and Ashby said it was near) 
+	- Most Richardson entries from Platner and Ashby, will continue working through old text first
+	
 
 	
