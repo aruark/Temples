@@ -79,8 +79,22 @@ July 26:
 	- Merged some duplicates
 	- Re-ordered list
 	- User: John Muccigrosso
+	
+July 28:
+
+	- Added temple of Mercury 
+	- Added temple of Honor and Virtue 
+	- Removed additional temple to Caesar
 
 July 29
+	
 	- Removed "areas" of Largo Argentina and Sant'Omobono
 	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
 	- Merged two Apollo (Sosianus) entries
+	
+	- Added temple to Juno Moneta
+	- Added temple of Juno Sospita
+	- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
+		○ Coordinates from church of S. Maria in Campitelli
+	- Added dedication days from Platner and Ashby
+
