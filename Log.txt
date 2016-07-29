@@ -83,3 +83,4 @@ July 26:
 July 29
 	- Removed "areas" of Largo Argentina and Sant'Omobono
 	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
+	- Merged two Apollo (Sosianus) entries
