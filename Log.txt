@@ -80,4 +80,6 @@ July 26:
 	- Re-ordered list
 	- User: John Muccigrosso
 
-	
+July 29
+	- Removed "areas" of Largo Argentina and Sant'Omobono
+	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
