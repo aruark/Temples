@@ -73,5 +73,14 @@ July 19:
 	- Coordinates for Diana from wikipedia (plots just west of the Church Platner and Ashby said it was near) 
 	- Most Richardson entries from Platner and Ashby, will continue working through old text first
 	
+July 26:
+	- Anglicized names of mithraea and a few others
+	- Iuppiter -> Jupiter
+	- Merged some duplicates
+	- Re-ordered list
+	- User: John Muccigrosso
 
-	
+July 29
+	- Removed "areas" of Largo Argentina and Sant'Omobono
+	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
+	- Merged two Apollo (Sosianus) entries
