@@ -97,4 +97,11 @@ July 29
 	- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
 		○ Coordinates from church of S. Maria in Campitelli
 	- Added dedication days from Platner and Ashby
+	
+July 30:
+
+	- Added coordinates for Fortis Fortuna (from Pleiades - ID number was included w/o coordinates)
+	- Added temple to Juventas 
+	- Added missing information about Mars (388 BCE)
+	
 
