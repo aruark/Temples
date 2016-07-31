@@ -88,20 +88,22 @@ July 28:
 
 July 29
 	
-	- Removed "areas" of Largo Argentina and Sant'Omobono
-	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
-	- Merged two Apollo (Sosianus) entries
+	- Removed "areas" of Largo Argentina, Sant'Omobono, and Forum Holitorium
+   	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
+   	- Merged two Apollo (Sosianus) entries
+  	- Merged Cybele/Magna Mater
+  	- Moved coords for Venus Victrix slightly
 	
-	- Added temple to Juno Moneta
-	- Added temple of Juno Sospita
-	- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
+	-- Added temple to Juno Moneta
+	-- Added temple of Juno Sospita
+	-- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
 		○ Coordinates from church of S. Maria in Campitelli
-	- Added dedication days from Platner and Ashby
+	-- Added dedication days from Platner and Ashby
 	
 July 30:
 
-	- Added coordinates for Fortis Fortuna (from Pleiades - ID number was included w/o coordinates)
-	- Added temple to Juventas 
-	- Added missing information about Mars (388 BCE)
+	-- Added coordinates for Fortis Fortuna (from Pleiades - ID number was included w/o coordinates)
+	-- Added temple to Juventas 
+	-- Added missing information about Mars (388 BCE)
 	
 
