@@ -94,16 +94,18 @@ July 29
   	- Merged Cybele/Magna Mater
   	- Moved coords for Venus Victrix slightly
 	
-	-- Added temple to Juno Moneta
-	-- Added temple of Juno Sospita
-	-- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
+	- Added temple to Juno Moneta
+	- Added temple of Juno Sospita
+	- Added temple to Jupiter Stator (on the inside the porticus Metelli) 
 		○ Coordinates from church of S. Maria in Campitelli
-	-- Added dedication days from Platner and Ashby
+	- Added dedication days from Platner and Ashby
 	
 July 30:
 
-	-- Added coordinates for Fortis Fortuna (from Pleiades - ID number was included w/o coordinates)
-	-- Added temple to Juventas 
-	-- Added missing information about Mars (388 BCE)
+	- Added coordinates for Fortis Fortuna (from Pleiades - ID number was included w/o coordinates)
+	- Added temple to Juventas 
+	- Added missing information about Mars (388 BCE)
 	
-
+August 2
+	- Added column for meetings (of the senate)
+	- Added more detail to Temple of Castor(es) in the Forum, including changing name from "& Pollux"
