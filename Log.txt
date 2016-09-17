@@ -112,3 +112,9 @@ August 2
 
 September 8:
 	- Removed randomhex column which was originally just for testing.
+	
+September 16:
+	- Added temple to Ops 
+	- Added temple to Pales
+	- Merged duplicate Isis entires (used vici coordinates)
+	
