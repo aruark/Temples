@@ -118,3 +118,19 @@ September 16:
 	- Added temple to Pales
 	- Merged duplicate Isis entires (used vici coordinates)
 	
+	
+October 3:
+
+	- Added orientation data for Feronia, Juturna, and Mater Matuta
+	
+October 10:
+	
+	- Added orentation data for Saturn, Spes, Janus, Juno Sospita, Hercules Invictus, Portunus, Vesta (in Tivoli)
+	- Added date for Saturn (Stamper)
+	- Corrected date for Fortuna (from Stamper) + added coordinates (same as Mater Matuta)
+	- Corrected date for Juno Sospita + added page numbers + added coordinates (from S. Nicola in Carcere on Google Maps)
+	- Added orentation data for Castor (from time of rebuilding in 117 BC)
+
+	
+	
+	
