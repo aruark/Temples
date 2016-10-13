@@ -130,6 +130,11 @@ October 10:
 	- Corrected date for Fortuna (from Stamper) + added coordinates (same as Mater Matuta)
 	- Corrected date for Juno Sospita + added page numbers + added coordinates (from S. Nicola in Carcere on Google Maps)
 	- Added orentation data for Castor (from time of rebuilding in 117 BC)
+	
+October 11: 
+
+	- Added missing information to second temple of Jupiter Stator
+	- Added second temple to Juno Regina
 
 October 13
 	- Added a few Arachne IDs to new arachne column
