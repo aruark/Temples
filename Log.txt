@@ -132,4 +132,6 @@ October 10:
 	- Added orentation data for Castor (from time of rebuilding in 117 BC)
 
 October 13
-	- Added a few Arachne IDs to new arachne column.
+	- Added a few Arachne IDs to new arachne column
+	- Removed redundant Hadrian entry
+	
