@@ -131,6 +131,5 @@ October 10:
 	- Corrected date for Juno Sospita + added page numbers + added coordinates (from S. Nicola in Carcere on Google Maps)
 	- Added orentation data for Castor (from time of rebuilding in 117 BC)
 
-	
-	
-	
+October 13
+	- Added a few Arachne IDs to new arachne column.
