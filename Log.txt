@@ -140,6 +140,6 @@ October 13
 	- Added a few Arachne IDs to new arachne column
 	- Removed redundant Hadrian entry
 	
-	- Added orentation data for Vesta, Lares Permarini, Fortuna Huiusce Diei, Venus Victrix
+	- Added orentation data for Vesta, Lares Permarini, Fortuna Huiusce Diei, Venus Victrix, Venus Genetrix
 	- Moved Temple B note from Fontus to Fortuna
 	
