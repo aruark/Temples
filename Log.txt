@@ -149,7 +149,7 @@ October 14:
 	
 October 15:
 
-	- Added orientation data for Divus Julius, Vespasian and Titus, Concord, Apollo Sosianus
+	- Added orientation data for Divus Julius, Vespasian and Titus, Concord, Apollo Sosianus, Bellona
 	- Edited orientation for Saturn and Castor(es)
 	- Added Location for Castor(es) and Vespasian and Titus 
 	- Added more accurate coordinates for Bellona (located on google maps) 
