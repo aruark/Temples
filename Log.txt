@@ -147,3 +147,10 @@ October 14:
 
 	- Added orientation to Antinious and Faustina, Pantheon
 	
+October 15:
+
+	- Added orientation data for Divus Julius, Vespasian and Titus, Concord, Apollo Sosianus
+	- Edited orientation for Saturn and Castor(es)
+	- Added Location for Castor(es) and Vespasian and Titus 
+	- Added more accurate coordinates for Bellona (located on google maps) 
+	
