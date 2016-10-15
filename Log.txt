@@ -143,3 +143,7 @@ October 13
 	- Added orentation data for Vesta, Lares Permarini, Fortuna Huiusce Diei, Venus Victrix, Venus Genetrix
 	- Moved Temple B note from Fontus to Fortuna
 	
+October 14:
+
+	- Added orientation to Antinious and Faustina, Pantheon
+	
