@@ -154,3 +154,6 @@ October 15:
 	- Added Location for Castor(es), Vespasian and Titus, Romulus 
 	- Added more accurate coordinates for Bellona (located on google maps) 
 	
+October 16:
+	- Finished adding Arachne building ("bauwerk") entries from Rome and area of Rome, adding a few new ones.
+	- Minor tweaks elsewhere.
