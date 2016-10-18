@@ -157,3 +157,11 @@ October 15:
 October 16:
 	- Finished adding Arachne building ("bauwerk") entries from Rome and area of Rome, adding a few new ones.
 	- Minor tweaks elsewhere.
+	
+October 18:
+
+	- Deleted Odeum
+	- Added misc missing data to existing entries 
+	- Added coordinates for Apollo Palatinus, Victoria (found in GoogleMaps) 
+		○ Updated Magna Mater
+	- Added orientation data for Magna Mater, Apollo Palatinus, Victoria
