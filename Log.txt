@@ -177,3 +177,6 @@ October 25:
 	- Added missing date to Venus and Rome (from Stamper)
 	- Added temple to Peace  
 	
+November 1:
+	- Changed "gender" field to "sex"
+	- Changed dates to +/- convention and created two new fields: "Start Date" and "End Date"
