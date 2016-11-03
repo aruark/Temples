@@ -177,6 +177,16 @@ October 25:
 	- Added missing date to Venus and Rome (from Stamper)
 	- Added temple to Peace  
 	
+October 30:
+
+	- Added coordinates for temple of Peace (from Wikipedia, double checked based on map of the Imperial Fora 
+
 November 1:
+
 	- Changed "gender" field to "sex"
 	- Changed dates to +/- convention and created two new fields: "Start Date" and "End Date"
+	
+	
+	- Edited coordinates for Hercules Musarum (based on Stamper plans) and coordinates for Temple of Trajan (was previously in the 		market)
+	-Added orientation data for Mars Ultor, Portunus, Hercules Victor/Invictus, Hercules Musarum
+
