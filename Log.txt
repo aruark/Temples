@@ -190,3 +190,5 @@ November 1:
 	- Edited coordinates for Hercules Musarum (based on Stamper plans) and coordinates for Temple of Trajan (was previously in the 		market)
 	-Added orientation data for Mars Ultor, Portunus, Hercules Victor/Invictus, Hercules Musarum
 
+November 29
+	- Deleted gender-color column
