@@ -192,3 +192,6 @@ November 1:
 
 November 29
 	- Deleted gender-color column
+
+December 1
+	- Added first attempt at century field, based on early start-date field.
