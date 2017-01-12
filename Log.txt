@@ -195,3 +195,6 @@ November 29
 
 December 1
 	- Added first attempt at century field, based on early start-date field.
+
+2017 January 11
+	- Fixed formula in century field to avoid turning null into 0.
