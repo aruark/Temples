@@ -207,3 +207,6 @@ December 1
 
 2017 April 1
 	- Typo in "Lib<e>ra"
+	- New "divinity" field, then renamed to "dedicatee"
+	- updates to deity type
+	- Deletion of Capitolium entry (a place, not a temple)
