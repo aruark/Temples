@@ -204,3 +204,6 @@ December 1
 
 29 March 29
 	- Corrected Feronia orientation from 180 to 90.
+
+2017 April 1
+	- Typo in "Lib<e>ra"
