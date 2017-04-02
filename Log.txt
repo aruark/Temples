@@ -210,3 +210,6 @@ December 1
 	- New "divinity" field, then renamed to "dedicatee"
 	- updates to deity type
 	- Deletion of Capitolium entry (a place, not a temple)
+
+2017 April 2
+	- Latinized a number of names for consistency
