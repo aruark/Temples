@@ -213,3 +213,6 @@ December 1
 
 2017 April 2
 	- Latinized a number of names for consistency
+
+2017 April 29
+	- Removed citation columns and created separate sheet for them.
